@@ -1,0 +1,44 @@
+div.contenido {
+    margin: auto;
+    margin-top: 70px;
+    width: 1000px;
+}
+
+img.grafico {
+    background-color: rgba(0, 0, 0, .03);
+    border: 1px solid rgba(0, 0, 0, .125);
+    color: gray;
+    display: block;
+    margin: auto;
+    padding: 3px;
+}
+
+div.contenedor-graficos {
+    background-color: #eff1e4;
+    border: 2px solid rgba(0, 0, 0, .1);
+    border-radius: 20px;
+    padding: 25px 0 25px 0;
+    text-align: center;
+}
+
+div.versus {
+    background-color: rgba(0, 0, 0, .075);
+    border: 1px solid rgba(0, 0, 0, .025);
+    border-radius: 10px;
+    color: rgba(0, 0, 0, .6);;
+    display: inline-block;
+    font-weight: bold;
+    margin: 15px;
+    padding: 15px;
+}
+
+p.referencia {
+    display: block;
+    font-size: 13px;
+    text-align: left;
+    padding: 15px 25px 0 25px;
+}
+
+strong.metrica {
+    text-shadow: 0 0 3px rgba(0, 0, 0, .075), 0 0 7px;
+}

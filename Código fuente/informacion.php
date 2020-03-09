@@ -33,7 +33,7 @@
                 <strong>Nexo</strong> es una herramienta que permite recolectar indicadores de calidad (tanto QoS como QoE) en aplicaciones móviles, y también permite clasificarlos y visualizarlos de manera gráfica con la finalidad de facilitar el descubrimiento de vínculos entre estos. Nexo funciona en conjunto con la <a href="https://github.com/gispunpauarg/Q2M" target="_blank">librería Q2M</a>.<br/>
                 Esta herramienta fue desarrollada dentro del marco de un proyecto de investigación (en la <a href="https://www.unpa.edu.ar" target="_blank">Universidad Nacional de la Patagonia Austral</a>; <a href="https://www.uarg.unpa.edu.ar" target="_blank">Unidad Académica de Río Gallegos</a>) durante el transcurso del año 2019.
             </p>
-            <a class="btn btn btn-secondary" href="https://github.com/gispunpauarg" target="_blank">Ver repositorio (en GitHub)</a>
+            <a class="btn btn btn-secondary" href="https://github.com/gispunpauarg/Nexo" target="_blank">Ver repositorio (en GitHub)</a>
         </div>
     </div>
 </body>
